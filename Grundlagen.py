@@ -23,6 +23,7 @@ Variablen ermöglichen uns Werte zu speichern und sie abzurufen
 a = 3
 b = 5
 
-
+name = "shumi"
+age = 40
 
 print(a+b)
