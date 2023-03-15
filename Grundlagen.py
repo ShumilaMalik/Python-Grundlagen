@@ -26,5 +26,5 @@ b = 5
 name = "shumi"
 age = 40
 kid = 3
-
+pet = "cat"
 print(a+b)
