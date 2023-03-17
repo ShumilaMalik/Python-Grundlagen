@@ -11,3 +11,5 @@ while True:
     antwort = input("Na, noch einen? (ja/nein)")
     if antwort == "nein":
         break
+
+    print("Danke das du da warst :)")
